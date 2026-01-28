@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="150">
 </p>
 
