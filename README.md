@@ -1,7 +1,6 @@
-![Verixa Banner](https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png)
 
 <p align="center">
-  <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="160">
+  <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="150">
 </p>
 
 # About Verixa
