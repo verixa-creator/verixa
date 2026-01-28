@@ -1,3 +1,9 @@
+![Verixa Banner](https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png)
+
+<p align="center">
+  <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="160">
+</p>
+
 # About Verixa
 
 Welcome to **Verixa** — a modern digital publication built for curious minds who want to understand the world better.
