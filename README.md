@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="150">
+  <img src="https://verixa.in/storage/settings/7lG8H6DAMiCwZKRqgTy92ZRfyAUCRY6aXzobNZdC.png" alt="Verixa Logo" width="100">
 </p>
 
 # About Verixa
@@ -11,7 +11,7 @@ At Verixa, we publish clear, engaging, and practical content across **technology
 
 ---
 
-## 🌍 What Is Verixa?
+## What Is Verixa?
 
 **Verixa** is an independent online platform focused on sharing insights, explainers, guides, and commentary on topics that shape how we live, work, and think.
 
@@ -25,7 +25,7 @@ Whether you’re here to learn something new, stay updated, or explore ideas, Ve
 
 ---
 
-## 🧩 What We Cover
+## What We Cover
 
 - **Technology & Innovation** — software, AI, gadgets, internet trends, and digital tools  
 - **Science & Knowledge** — discoveries, explanations, and real-world science  
@@ -37,39 +37,36 @@ Our content is written for **general readers**, students, professionals, and any
 
 ---
 
-## 🧠 Our Approach
-
-- ✍️ Human-written, original content  
-- 📚 Research-based and fact-checked where applicable  
-- 🔍 Clear explanations over clickbait  
-- 🌱 Always improving, always learning  
+## Our Approach
+- Research-based and fact-checked content where applicable  
+- Clear explanations over clickbait  
+- Always improving, always learning  
 
 We don’t chase hype — we focus on clarity and value.
 
 ---
 
-## 👥 Who Runs Verixa?
+## Who Runs Verixa?
 
 Verixa is run by independent creators and writers passionate about knowledge, technology, and communication.  
 Some articles may be written with the assistance of modern tools, but **editorial judgment, structure, and final review are always human-guided**.
 
 ---
 
-## 🔗 Connect With Verixa
+## Connect With Verixa
 
 Follow Verixa on social media for updates, new articles, and highlights:
 
-- **Twitter / X:** https://twitter.com/your_handle_here  
-- **Instagram:** https://instagram.com/your_handle_here  
-- **Facebook:** https://facebook.com/your_page_here  
-- **LinkedIn:** https://linkedin.com/company/your_page_here  
-- **YouTube (if applicable):** https://youtube.com/@your_channel_here  
+- **Twitter / X:** https://x.com/x_verixa  
+- **Instagram:** https://www.instagram.com/ig_verixa  
+- **Facebook:** https://facebook.com/your_page_here   
+- **Medium:** https://medium.com/@verixa
 
 *(Replace links with your actual profiles)*
 
 ---
 
-## 📬 Contact Us
+## Contact Us
 
 Have feedback, questions, or collaboration ideas?
 
@@ -80,7 +77,7 @@ We’re always open to thoughtful conversations and suggestions.
 
 ---
 
-## ⚖️ Transparency & Disclaimer
+## Transparency & Disclaimer
 
 - Content on Verixa is for **informational and educational purposes only**.  
 - We do not provide professional legal, medical, or financial advice.  
@@ -89,7 +86,7 @@ We’re always open to thoughtful conversations and suggestions.
 
 ---
 
-## 🚀 Our Vision
+## Our Vision
 
 We believe the internet should help people **understand more, not feel overwhelmed**.
 
